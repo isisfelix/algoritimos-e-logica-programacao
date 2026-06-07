@@ -1,7 +1,7 @@
 valor = float(input("Dígite o valor total da compra:"))
 print("Descontos")
 
-print("""      1 - A vista (15% de desconto)
+print("""      1 - À vista (15% de desconto)
       2- Cartão de Débito (10% de desconto)
       3- Cartão de Crédito (5% de desconto)""")
 desconto = input("Dígite qual opção deseja: ")
